@@ -7,7 +7,7 @@ MacOS High Sierra
 General Software
 ------------------
 
-* iterm2: https://www.iterm2.com/
+* iTerm2: https://www.iterm2.com/
 * Firefox: https://www.mozilla.org/es-ES/firefox/new/
 * Logitech Options: http://support.logitech.com/es_es/software/options
 * Spotify: https://www.spotify.com/es/download/mac/
@@ -69,7 +69,9 @@ Photography
 * Photomechanic
 
 * LightRoom CC Classic
+
   - Import Catalog
+
 * LightRoom CC
 * Photoshop CC
 * XD, Camera Raw, Bridge etc...
