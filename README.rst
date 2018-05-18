@@ -49,8 +49,12 @@ R
 ....
 
 * R: https://cran.r-project.org/mirrors.html
-  18/5/2018: v3.5.0
+
+  - 18/5/2018: v3.5.0
+
 * Rstudio
+
+  - 18/5/2018: Version 1.1.453
 
 * Libraries
 
@@ -85,6 +89,9 @@ Configs
 
 * .bashrc
 * .bash_profile
+
+
+
 * bin dir
 * configure git for github account
  
