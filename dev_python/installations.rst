@@ -6,4 +6,10 @@ Installs related to Python
 
 - Libraries
 
-
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Jupyter
+  - sklearn
+   
