@@ -15,6 +15,7 @@ General Software
 * Skype: https://www.skype.com/en/get-skype/
 
 
+
 Apple Store
 ------------
 
@@ -22,6 +23,9 @@ Apple Store
 * WhatsApp Desktop
 * Slack
 * OneNote
+* Trello: https://trello.com/
+* Spark Mail
+* GarageBand
 
 
 Dev
@@ -30,6 +34,13 @@ Dev
 * VirtualBox + extensions: https://www.virtualbox.org/
 * MacVim: https://macvim-dev.github.io/macvim/
  
+Apache Spark
+-----------------
+
+- Install Spark: https://spark.apache.org/downloads.html
+
+
+
 Java
 .....
 
@@ -44,6 +55,9 @@ Python
 
 * Python 3: https://www.python.org/downloads/
 * PyCharm: https://www.jetbrains.com/pycharm/download/#section=macJava
+
+Install libraries
+
 
 R
 ....
